@@ -1,6 +1,6 @@
 package com.dingzhaohua.helloworld;
 
-// freedom项目
+// freedom项目 springboot技术的试炼场
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RequestMapping;
